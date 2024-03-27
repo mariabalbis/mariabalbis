@@ -1,5 +1,4 @@
-### Hi there 👋
-**mariabalbis/mariabalbis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá mundo 👋
 - Seja bem vindo ao meu github, aqui tem algumas informações sobre mim!
 ## Linguagens estudadas: 
 
